@@ -113,32 +113,6 @@ Amazon-Sales-Dashboard/
   <li>Shipping performance accounts for ~85%+ successful order fulfillment.</li>
 </ul>
 
-<hr>
-
-<h2>🚀 How to Use</h2>
-
-<ol>
-  <li>Clone the repository:</li>
-</ol>
-
-<pre><code>git clone https://github.com/yourusername/Amazon-Sales-Dashboard.git</code></pre>
-
-<ol start="2">
-  <li>Open the dashboard file using Power BI / Tableau.</li>
-  <li>Connect to the dataset if required.</li>
-  <li>Explore interactive filters and visualizations.</li>
-</ol>
-
-<hr>
-
-<h2>📈 Future Improvements</h2>
-
-<ul>
-  <li>Add profit margin analysis</li>
-  <li>Include customer segmentation</li>
-  <li>Integrate forecasting models</li>
-  <li>Automate data refresh pipeline</li>
-</ul>
 
 <hr>
 
